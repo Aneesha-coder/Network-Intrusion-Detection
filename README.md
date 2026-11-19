@@ -2,19 +2,19 @@
 [Network Intrusion detection.ipynb](https://github.com/user-attachments/files/35082323/Network.Intrusion.detection.ipynb)
 
 ## PROJECT OVERVIEW
-#This project focuses on identifying malicious network activities using Machine Learning classification techniques. #The objective is to distinguish normal network traffic from different types of cyberattacks
+This project focuses on identifying malicious network activities using Machine Learning classification techniques. The objective is to distinguish normal network traffic from different types of cyberattacks
 ## TOOLS & TECHNOLOGIES
-#Python
-#Jupyter Notebook
-#Pandas
-#NumPy
-#Matplotlib
-#Seaborn
-#Scikit-learn
-#XGBoost
+Python
+Jupyter Notebook
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+XGBoost
 ## PROJECT WORKFLOW
-#Data Understanding and Exploration
-#Data Cleaning and Preprocessing
+Data Understanding and Exploration
+Data Cleaning and Preprocessing
 Handling Missing Values and Outliers
 Exploratory Data Analysis (EDA)
 Encoding Categorical Variables
